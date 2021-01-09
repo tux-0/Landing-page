@@ -1,0 +1,14 @@
+
+body {font-family:Raleway ;padding-left: 5%; overflow: hidden;}
+#logo {font-weight: 800; font-size: 3vw;color: #282E53; font-weight: 900;}
+.btn.btn-warning { 
+    border-radius: 20px; width: 120px; font-size: 1vw;    color: white; background-color: #E2A427;border-color: #E2A427;
+  }
+#textpart{margin-top:7.5% ; }  
+#slogan{ color: #222C70; font-weight: bold; margin-left: 1%;}
+#par{color: #606060;margin-left: 1%;}
+#click{width: 150px; text-align: center; margin-left: 1%;}
+#img{margin-right: 10%; margin-top: 2%;margin-left: 10%;}
+.animate__animated.animate__shakeY {
+  --animate-duration: 5s;
+}
